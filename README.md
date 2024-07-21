@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinayakdev06
+- 👋 Hi, I’m Vinayak Mishra
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Web Project
